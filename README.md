@@ -2,12 +2,6 @@
 <h3 align="center">Upcoming Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1032/1*MebmMJQUm2Nvn7UnZXcChg.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsahu7981&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsahu7981" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsahu7981" alt="rahulsahu7981" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **rahulsahu210802@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -25,8 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsahu7981&show_icons=true&locale=en&layout=compact" alt="rahulsahu7981" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsahu7981&show_icons=true&locale=en" alt="rahulsahu7981" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsahu7981&" alt="rahulsahu7981" /></p>
 
 
 
